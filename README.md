@@ -3,6 +3,7 @@
 The stakeholder is interested in creating a bike-sharing program in their hometown. In order to solidify the proposal to investors, I have used Pandas and Tableau to analyze bike trip data from New York City. 
 
 ## Results
+The Tableau dashboard can be found at https://public.tableau.com/app/profile/rachel.tait.ripperdan/viz/Citibikeanalysis_16632855909700/CitibikeStory
 
 ### The first level of analysis looked at location
 #### The start station map demonstrates that stations all over the city were utilized
